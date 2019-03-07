@@ -1,0 +1,29 @@
+#calculator {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid grey;
+    padding: 10px;
+    width: 20rem;
+}
+
+#operations {
+    width: 2rem;
+    margin: 0 1rem;
+}
+
+input {
+    height: 1rem;
+    width: 5rem;
+}    
+
+#operations button {
+    display: block;
+    width: 2rem;
+    margin: 0.5rem 0;
+}
+
+#solution {
+    width: 20rem;
+    text-align:center;
+}
